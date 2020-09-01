@@ -1,5 +1,4 @@
 # dsci510-lab1
-DSCI510 lab1
 Name: Xuemin Zeng.
 Email address: xueminze@usc.edu or zengxuemin214@hotmail.com
 How to invoke my lab1.py file: 
